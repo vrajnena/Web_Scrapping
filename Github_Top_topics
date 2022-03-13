@@ -1,0 +1,25 @@
+,Topic name,Matching_Repo,First_Repo_Author,Second_Repo_Author,Frist_Repo_URL,Star_Repo1,Second_Repo_URL,Star_Repo2
+0,3D,"5,105",mrdoob,libgdx,https://github.com/mrdoob/three.js,80.1k,https://github.com/libgdx/libgdx,19.8k
+1,Ajax,"7,969",metafizzy,ljianshu,https://github.com/metafizzy/infinite-scroll,7k,https://github.com/ljianshu/Blog,7k
+2,Algorithm,"11,856",jwasham,CyC2018,https://github.com/jwasham/coding-interview-university,213k,https://github.com/CyC2018/CS-Notes,148k
+3,Amp,127,amphp,danog,https://github.com/amphp/amp,3.5k,https://github.com/danog/MadelineProto,1.9k
+4,Android,"94,038",flutter,justjavac,https://github.com/flutter/flutter,137k,https://github.com/justjavac/free-programming-books-zh_CN,88.1k
+5,Angular,"37,130",justjavac,angular,https://github.com/justjavac/free-programming-books-zh_CN,88.1k,https://github.com/angular/angular,80.2k
+6,Ansible,"16,206",ansible,trailofbits,https://github.com/ansible/ansible,52.4k,https://github.com/trailofbits/algo,24.9k
+7,API,"57,941",public-apis,neovim,https://github.com/public-apis/public-apis,185k,https://github.com/neovim/neovim,51.5k
+8,Arduino,"24,478",arendst,MarlinFirmware,https://github.com/arendst/Tasmota,17.3k,https://github.com/MarlinFirmware/Marlin,12.8k
+9,ASP.NET,700,aspnetboilerplate,dotnet,https://github.com/aspnetboilerplate/aspnetboilerplate,10.2k,https://github.com/dotnet/AspNetCore.Docs,10.2k
+10,Atom,"2,571",atom,themerdev,https://github.com/atom/atom,57k,https://github.com/themerdev/themer,4.6k
+11,Awesome Lists,"5,066",sindresorhus,vinta,https://github.com/sindresorhus/awesome,193k,https://github.com/vinta/awesome-python,119k
+12,Amazon Web Services,"25,739",serverless,localstack,https://github.com/serverless/serverless,42.3k,https://github.com/localstack/localstack,39.1k
+13,Azure,"10,089",bregman-arie,ramitsurana,https://github.com/bregman-arie/devops-exercises,21.6k,https://github.com/ramitsurana/awesome-kubernetes,12.6k
+14,Babel,"7,818",babel,nylas,https://github.com/babel/babel,40.5k,https://github.com/nylas/nylas-mail,24.7k
+15,Bash,"15,861",jlevy,nvm-sh,https://github.com/jlevy/the-art-of-command-line,104k,https://github.com/nvm-sh/nvm,56k
+16,Bitcoin,"7,834",bitcoin,ccxt,https://github.com/bitcoin/bitcoin,62.4k,https://github.com/ccxt/ccxt,23.6k
+17,Bootstrap,"41,228",twbs,ColorlibHQ,https://github.com/twbs/bootstrap,156k,https://github.com/ColorlibHQ/AdminLTE,40.6k
+18,Bot,"21,838",ccxt,discordjs,https://github.com/ccxt/ccxt,23.6k,https://github.com/discordjs/discord.js,18.3k
+19,C,"42,538",Genymobile,neovim,https://github.com/Genymobile/scrcpy,62.4k,https://github.com/neovim/neovim,51.5k
+20,Chrome,"5,014",electron,microsoft,https://github.com/electron/electron,101k,https://github.com/microsoft/playwright,35.3k
+21,Chrome extension,"11,661",iamadamdev,refined-github,https://github.com/iamadamdev/bypass-paywalls-chrome,23.8k,https://github.com/refined-github/refined-github,17.2k
+22,Command line interface,"28,239",ohmyzsh,junegunn,https://github.com/ohmyzsh/ohmyzsh,142k,https://github.com/junegunn/fzf,42.6k
+23,Clojure,"5,043",metabase,eclipse,https://github.com/metabase/metabase,27.8k,https://github.com/eclipse/deeplearning4j,12.4k
